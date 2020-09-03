@@ -18,7 +18,9 @@ After a customer purchases the product from Olist Store a seller gets notified t
 ### Attention
 1. An order might have multiple items.
 2. Each item might be fulfilled by a distinct seller.
-3. All text identifying stores and partners where replaced by the names of Game of Thrones great houses.\n\n### Example of a product listing on a marketplace
+3. All text identifying stores and partners where replaced by the names of Game of Thrones great houses.
+
+### Example of a product listing on a marketplace
 ![Example of a product listing on a marketplace](https://i.imgur.com/JuJMns1.png)
 
 ## Data Schema
@@ -51,4 +53,4 @@ Create features from this rich dataset or attach some external public informatio
 ## Acknowledgements
 Thanks to Olist for releasing this dataset.
 
-## Dataset from https://www.kaggle.com/olistbr/brazilian-ecommerce
+Dataset from https://www.kaggle.com/olistbr/brazilian-ecommerce
